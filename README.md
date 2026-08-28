@@ -2,6 +2,6 @@
 
 You can find me in the [cnblogs](https://www.cnblogs.com/guanghe).
 
-## house_rent
+## rental
 
-This project is the graduation project of my life.
+This is my undergraduate graduation project.
